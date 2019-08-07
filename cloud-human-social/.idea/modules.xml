@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cloud-human-social-client/cloud-human-social-client.iml" filepath="$PROJECT_DIR$/cloud-human-social-client/cloud-human-social-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-human-social-common/cloud-human-social-common.iml" filepath="$PROJECT_DIR$/cloud-human-social-common/cloud-human-social-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-human-social-dao/cloud-human-social-dao.iml" filepath="$PROJECT_DIR$/cloud-human-social-dao/cloud-human-social-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-human-social-manager/cloud-human-social-manager.iml" filepath="$PROJECT_DIR$/cloud-human-social-manager/cloud-human-social-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-human-social-service/cloud-human-social-service.iml" filepath="$PROJECT_DIR$/cloud-human-social-service/cloud-human-social-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-human-social-web/cloud-human-social-web.iml" filepath="$PROJECT_DIR$/cloud-human-social-web/cloud-human-social-web.iml" />
+    </modules>
+  </component>
+</project>
