@@ -2,13 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d33e207-7946-405c-bd3f-840e845eb424" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/compiler.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../.idea/spring-cloud.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cloud-eurake/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cloud-eurake/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cloud-finance/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cloud-finance/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloud-eurake/cloud-eurake-client/cloud-eurake-client.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloud-eurake/cloud-eurake-common/cloud-eurake-common.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloud-eurake/cloud-eurake-dao/cloud-eurake-dao.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloud-eurake/cloud-eurake-manager/cloud-eurake-manager.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloud-eurake/cloud-eurake-service/cloud-eurake-service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloud-eurake/cloud-eurake-web/cloud-eurake-web.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloud-finance/cloud-finance-client/cloud-finance-client.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloud-finance/cloud-finance-common/cloud-finance-common.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloud-finance/cloud-finance-dao/cloud-finance-dao.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloud-finance/cloud-finance-manager/cloud-finance-manager.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloud-finance/cloud-finance-service/cloud-finance-service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloud-finance/cloud-finance-web/cloud-finance-web.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-human-social-client/cloud-human-social-client.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-human-social-common/cloud-human-social-common.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-human-social-dao/cloud-human-social-dao.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-human-social-manager/cloud-human-social-manager.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-human-social-service/cloud-human-social-service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-human-social-web/cloud-human-social-web.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -138,7 +155,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1565161789934</updated>
-      <workItem from="1565161792503" duration="148000" />
+      <workItem from="1565161792503" duration="288000" />
     </task>
     <task id="LOCAL-00001" summary="cloud-human-social">
       <created>1565161897445</created>
@@ -151,10 +168,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="148000" />
+    <option name="totallyTimeSpent" value="288000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
