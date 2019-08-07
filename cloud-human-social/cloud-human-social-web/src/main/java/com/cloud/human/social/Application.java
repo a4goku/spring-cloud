@@ -17,6 +17,6 @@ public class Application {
     @RequestMapping("/hi")
     public String home()
     {
-        return "Hi, it's me !";
+        return "Hi, it's cloud-human-social !";
     }
 }
