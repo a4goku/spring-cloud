@@ -8,4 +8,8 @@ eureka:
     registerWithEureka: false
     fetchRegistry: false
     serviceUrl:
-      defaultZone: http://eureka.instance.hostname: {eureka.instance.hostname}:eureka.instance.hostname:{server.port}/eureka/
+      defaultZone: http://localhost:21000/eureka/
+
+spring:
+  application:
+    name: cloud-eurake
