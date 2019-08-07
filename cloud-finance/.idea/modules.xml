@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cloud-finance-client/cloud-finance-client.iml" filepath="$PROJECT_DIR$/cloud-finance-client/cloud-finance-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-finance-common/cloud-finance-common.iml" filepath="$PROJECT_DIR$/cloud-finance-common/cloud-finance-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-finance-dao/cloud-finance-dao.iml" filepath="$PROJECT_DIR$/cloud-finance-dao/cloud-finance-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-finance-manager/cloud-finance-manager.iml" filepath="$PROJECT_DIR$/cloud-finance-manager/cloud-finance-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-finance-service/cloud-finance-service.iml" filepath="$PROJECT_DIR$/cloud-finance-service/cloud-finance-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-finance-web/cloud-finance-web.iml" filepath="$PROJECT_DIR$/cloud-finance-web/cloud-finance-web.iml" />
+    </modules>
+  </component>
+</project>
