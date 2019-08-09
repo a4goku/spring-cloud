@@ -8,27 +8,55 @@
       <change afterPath="$PROJECT_DIR$/../.idea/spring-cloud.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cloud-eurake/cloud-eurake-client/cloud-eurake-client.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cloud-eurake/cloud-eurake-common/cloud-eurake-common.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cloud-eurake/cloud-eurake-dao/cloud-eurake-dao.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cloud-eurake/cloud-eurake-manager/cloud-eurake-manager.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cloud-eurake/cloud-eurake-service/cloud-eurake-service.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cloud-eurake/cloud-eurake-web/cloud-eurake-web.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cloud-finance/cloud-finance-client/cloud-finance-client.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cloud-finance/cloud-finance-common/cloud-finance-common.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cloud-finance/cloud-finance-dao/cloud-finance-dao.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cloud-finance/cloud-finance-manager/cloud-finance-manager.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cloud-finance/cloud-finance-service/cloud-finance-service.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cloud-finance/cloud-finance-web/cloud-finance-web.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-human-social-client/cloud-human-social-client.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-human-social-common/cloud-human-social-common.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-human-social-dao/cloud-human-social-dao.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-human-social-manager/cloud-human-social-manager.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-human-social-service/cloud-human-social-service.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-human-social-web/cloud-human-social-web.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud-eurake/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cloud-eurake/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud-eurake/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cloud-eurake/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud-eurake/cloud-eurake-client/cloud-eurake-client.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../cloud-eurake/cloud-eurake-client/cloud-eurake-client.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud-eurake/cloud-eurake-common/cloud-eurake-common.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../cloud-eurake/cloud-eurake-common/cloud-eurake-common.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud-eurake/cloud-eurake-dao/cloud-eurake-dao.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../cloud-eurake/cloud-eurake-dao/cloud-eurake-dao.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud-eurake/cloud-eurake-manager/cloud-eurake-manager.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../cloud-eurake/cloud-eurake-manager/cloud-eurake-manager.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud-eurake/cloud-eurake-service/cloud-eurake-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../cloud-eurake/cloud-eurake-service/cloud-eurake-service.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud-eurake/cloud-eurake-web/cloud-eurake-web.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../cloud-eurake/cloud-eurake-web/cloud-eurake-web.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud-eurake/cloud-eurake.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../cloud-eurake/cloud-eurake.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud-finance/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cloud-finance/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud-finance/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud-finance/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cloud-finance/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud-finance/cloud-finance-client/cloud-finance-client.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../cloud-finance/cloud-finance-client/cloud-finance-client.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud-finance/cloud-finance-common/cloud-finance-common.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../cloud-finance/cloud-finance-common/cloud-finance-common.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud-finance/cloud-finance-dao/cloud-finance-dao.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../cloud-finance/cloud-finance-dao/cloud-finance-dao.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud-finance/cloud-finance-manager/cloud-finance-manager.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../cloud-finance/cloud-finance-manager/cloud-finance-manager.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud-finance/cloud-finance-service/cloud-finance-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../cloud-finance/cloud-finance-service/cloud-finance-service.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud-finance/cloud-finance-web/cloud-finance-web.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../cloud-finance/cloud-finance-web/cloud-finance-web.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud-finance/cloud-finance-web/target/classes/com/cloud/finance/controller/FinanceTestController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud-finance/cloud-finance.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../cloud-finance/cloud-finance.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-human-social-client/cloud-human-social-client.iml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-human-social-client/cloud-human-social-client.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-human-social-client/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-human-social-client/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-human-social-client/src/main/java/com/cloud/human/social/client/FinanceControllerClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-human-social-client/src/main/java/com/cloud/human/social/client/FinanceControllerClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-human-social-common/cloud-human-social-common.iml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-human-social-common/cloud-human-social-common.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-human-social-common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-human-social-common/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-human-social-dao/cloud-human-social-dao.iml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-human-social-dao/cloud-human-social-dao.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-human-social-dao/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-human-social-dao/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-human-social-manager/cloud-human-social-manager.iml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-human-social-manager/cloud-human-social-manager.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-human-social-manager/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-human-social-manager/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-human-social-service/cloud-human-social-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-human-social-service/cloud-human-social-service.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-human-social-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-human-social-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-human-social-service/src/main/java/com/cloud/human/social/service/impl/HumanSocialServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-human-social-service/src/main/java/com/cloud/human/social/service/impl/HumanSocialServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-human-social-web/cloud-human-social-web.iml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-human-social-web/cloud-human-social-web.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-human-social-web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-human-social-web/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-human-social-web/target/classes/com/cloud/human/social/Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-human-social-web/target/classes/com/cloud/human/social/controller/HumanSocialController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-human-social.iml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-human-social.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-human-social-manager/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-human-social-dao/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-human-social-common/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-human-social-client/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-human-social-web/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-human-social-service/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,44 +64,31 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cloud-human-social-client/pom.xml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cloud-human-social-common/pom.xml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cloud-human-social-dao/pom.xml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cloud-human-social-manager/pom.xml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cloud-human-social-service/pom.xml">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/cloud-human-social-manager/src/main/java/com/cloud/human/social/manager/impl/HumanSocialManagerImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="217">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#450#451#0" expanded="true" />
+                <element signature="e#513#514#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/cloud-human-social-web/pom.xml">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/cloud-human-social-client/src/main/java/com/cloud/human/social/client/FinanceControllerClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -85,7 +100,24 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-human-social-service/src/main/java/com/cloud/human/social/service/impl/HumanSocialServiceImpl.java" />
+        <option value="$PROJECT_DIR$/cloud-human-social-web/src/main/java/com/cloud/human/social/controller/HumanSocialController.java" />
+        <option value="$PROJECT_DIR$/cloud-human-social-web/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-human-social-service/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-human-social-manager/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-human-social-dao/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-human-social-common/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-human-social-client/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-human-social-client/src/main/java/com/cloud/human/social/client/FinanceControllerClient.java" />
       </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\DevelopSoftware\apache-maven-3.6.1\repo" />
+        <option name="userSettingsFile" value="C:\DevelopSoftware\apache-maven-3.6.1\settings.xml" />
+      </MavenGeneralSettings>
     </option>
   </component>
   <component name="ProjectConfigurationFiles">
@@ -117,21 +149,122 @@
               <item name="cloud-human-social" type="b2602c69:ProjectViewProjectNode" />
               <item name="cloud-human-social" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="cloud-human-social" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cloud-human-social" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud-human-social-client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cloud-human-social" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cloud-human-social" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud-human-social-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cloud-human-social" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cloud-human-social" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud-human-social-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cloud-human-social" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cloud-human-social" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud-human-social-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cloud-human-social" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cloud-human-social" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud-human-social-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cloud-human-social" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cloud-human-social" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud-human-social-common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cloud-human-social" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cloud-human-social" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud-human-social-dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cloud-human-social" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cloud-human-social" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud-human-social-manager" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cloud-human-social" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cloud-human-social" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud-human-social-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cloud-human-social" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cloud-human-social" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud-human-social-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cloud-human-social" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cloud-human-social" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud-human-social-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cloud-human-social" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cloud-human-social" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud-human-social-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="manager" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cloud-human-social" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cloud-human-social" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud-human-social-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="manager" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cloud-human-social" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cloud-human-social" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud-human-social-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cloud-human-social" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cloud-human-social" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud-human-social-web" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -145,6 +278,15 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-human-social-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cloud.human.social.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -156,6 +298,7 @@
       <option name="presentableId" value="Default" />
       <updated>1565161789934</updated>
       <workItem from="1565161792503" duration="288000" />
+      <workItem from="1565345103971" duration="913000" />
     </task>
     <task id="LOCAL-00001" summary="cloud-human-social">
       <created>1565161897445</created>
@@ -168,24 +311,23 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="288000" />
+    <option name="totallyTimeSpent" value="1201000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Web" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Spring" />
+      <window_info anchor="bottom" id="Messages" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Java Enterprise" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -193,15 +335,21 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Bean Validation" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -215,23 +363,111 @@
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/cloud-human-social-client/pom.xml">
+    <entry file="file://$PROJECT_DIR$/cloud-human-social.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/cloud-human-social-common/pom.xml">
+    <entry file="file://$PROJECT_DIR$/cloud-human-social-web/src/main/java/com/cloud/human/social/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-human-social-manager/src/main/java/com/cloud/human/social/manager/HumanSocialManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-human-social-service/src/main/java/com/cloud/human/social/service/HumanSocialService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-human-social-service/cloud-human-social-service.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/cloud-human-social-dao/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cloud-human-social-manager/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cloud-human-social-service/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/cloud-human-social-web/src/main/java/com/cloud/human/social/controller/HumanSocialController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#712#713#0" expanded="true" />
+            <element signature="e#770#771#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cloud-human-social-web/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-human-social-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-human-social-manager/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-human-social-dao/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-human-social-common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-human-social-client/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-human-social-service/src/main/java/com/cloud/human/social/service/impl/HumanSocialServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="37" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-human-social-manager/src/main/java/com/cloud/human/social/manager/impl/HumanSocialManagerImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#450#451#0" expanded="true" />
+            <element signature="e#513#514#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-human-social-client/src/main/java/com/cloud/human/social/client/FinanceControllerClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">

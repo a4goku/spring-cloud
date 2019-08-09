@@ -6,8 +6,23 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="cloud-human-social" />
+        <module name="cloud-human-social-web" />
+        <module name="cloud-human-social-client" />
+        <module name="cloud-human-social-dao" />
+        <module name="cloud-human-social-service" />
+        <module name="cloud-human-social-common" />
+        <module name="cloud-human-social-manager" />
       </profile>
     </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="cloud-human-social-client" options="-parameters" />
+      <module name="cloud-human-social-common" options="-parameters" />
+      <module name="cloud-human-social-dao" options="-parameters" />
+      <module name="cloud-human-social-manager" options="-parameters" />
+      <module name="cloud-human-social-service" options="-parameters" />
+      <module name="cloud-human-social-web" options="-parameters" />
+    </option>
   </component>
 </project>
