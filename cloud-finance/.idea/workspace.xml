@@ -2,15 +2,59 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df5112b7-26c3-4397-98d9-4b3229ee8c57" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/compiler.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../.idea/spring-cloud.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud-eurake/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cloud-eurake/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../cloud-eurake/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cloud-eurake/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud-eurake/cloud-eurake-client/cloud-eurake-client.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../cloud-eurake/cloud-eurake-client/cloud-eurake-client.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud-eurake/cloud-eurake-common/cloud-eurake-common.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../cloud-eurake/cloud-eurake-common/cloud-eurake-common.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud-eurake/cloud-eurake-dao/cloud-eurake-dao.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../cloud-eurake/cloud-eurake-dao/cloud-eurake-dao.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud-eurake/cloud-eurake-manager/cloud-eurake-manager.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../cloud-eurake/cloud-eurake-manager/cloud-eurake-manager.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud-eurake/cloud-eurake-service/cloud-eurake-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../cloud-eurake/cloud-eurake-service/cloud-eurake-service.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud-eurake/cloud-eurake-web/cloud-eurake-web.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../cloud-eurake/cloud-eurake-web/cloud-eurake-web.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud-eurake/cloud-eurake.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../cloud-eurake/cloud-eurake.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-finance-client/cloud-finance-client.iml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-finance-client/cloud-finance-client.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-finance-common/cloud-finance-common.iml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-finance-common/cloud-finance-common.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-finance-dao/cloud-finance-dao.iml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-finance-dao/cloud-finance-dao.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-finance-manager/cloud-finance-manager.iml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-finance-manager/cloud-finance-manager.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-finance-service/cloud-finance-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-finance-service/cloud-finance-service.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-finance-web/cloud-finance-web.iml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-finance-web/cloud-finance-web.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-finance-web/target/classes/com/cloud/finance/controller/FinanceTestController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-finance.iml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-finance.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud-human-social/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cloud-human-social/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud-human-social/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud-human-social/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cloud-human-social/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud-human-social/cloud-human-social-client/cloud-human-social-client.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../cloud-human-social/cloud-human-social-client/cloud-human-social-client.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud-human-social/cloud-human-social-common/cloud-human-social-common.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../cloud-human-social/cloud-human-social-common/cloud-human-social-common.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud-human-social/cloud-human-social-common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cloud-human-social/cloud-human-social-common/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud-human-social/cloud-human-social-dao/cloud-human-social-dao.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../cloud-human-social/cloud-human-social-dao/cloud-human-social-dao.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud-human-social/cloud-human-social-manager/cloud-human-social-manager.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../cloud-human-social/cloud-human-social-manager/cloud-human-social-manager.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud-human-social/cloud-human-social-manager/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cloud-human-social/cloud-human-social-manager/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud-human-social/cloud-human-social-service/cloud-human-social-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../cloud-human-social/cloud-human-social-service/cloud-human-social-service.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud-human-social/cloud-human-social-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cloud-human-social/cloud-human-social-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud-human-social/cloud-human-social-service/src/main/java/com/cloud/human/social/service/impl/HumanSocialServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cloud-human-social/cloud-human-social-service/src/main/java/com/cloud/human/social/service/impl/HumanSocialServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud-human-social/cloud-human-social-web/cloud-human-social-web.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../cloud-human-social/cloud-human-social-web/cloud-human-social-web.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud-human-social/cloud-human-social-web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cloud-human-social/cloud-human-social-web/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud-human-social/cloud-human-social-web/src/main/java/com/cloud/human/social/controller/HumanSocialController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cloud-human-social/cloud-human-social-web/src/main/java/com/cloud/human/social/controller/HumanSocialController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud-human-social/cloud-human-social-web/target/classes/com/cloud/human/social/Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud-human-social/cloud-human-social-web/target/classes/com/cloud/human/social/controller/HumanSocialController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud-human-social/cloud-human-social.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../cloud-human-social/cloud-human-social.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-finance-common/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-finance-dao/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-finance-manager/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-finance-web/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-finance-service/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-finance-client/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,11 +66,11 @@
     <option name="delegatedBuild" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
+            <state relative-caret-position="500">
               <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
             </state>
           </provider>
@@ -78,6 +122,14 @@
       </list>
     </option>
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\DevelopSoftware\apache-maven-3.6.1\repo" />
+        <option name="userSettingsFile" value="C:\DevelopSoftware\apache-maven-3.6.1\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProjectConfigurationFiles">
     <option name="files">
       <list>
@@ -87,10 +139,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1912" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -100,7 +152,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -112,7 +164,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -120,9 +172,10 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../cloud-human-social" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -136,6 +189,15 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-finance-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cloud.finance.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -147,6 +209,7 @@
       <option name="presentableId" value="Default" />
       <updated>1565161564614</updated>
       <workItem from="1565161567422" duration="226000" />
+      <workItem from="1565345018447" duration="838000" />
     </task>
     <task id="LOCAL-00001" summary="cloud-finance">
       <created>1565161722367</created>
@@ -159,40 +222,45 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="226000" />
+    <option name="totallyTimeSpent" value="1064000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Web" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31769437" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Spring" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Java Enterprise" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Bean Validation" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -205,7 +273,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
+        <state relative-caret-position="500">
           <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
         </state>
       </provider>
