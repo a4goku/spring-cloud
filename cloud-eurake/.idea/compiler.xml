@@ -6,13 +6,23 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="cloud-eurake-manager" />
+        <module name="cloud-eurake-common" />
         <module name="cloud-eurake-service" />
         <module name="cloud-eurake-dao" />
-        <module name="cloud-eurake-common" />
+        <module name="cloud-eurake-manager" />
         <module name="cloud-eurake-client" />
         <module name="cloud-eurake-web" />
       </profile>
     </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="cloud-eurake-client" options="-parameters" />
+      <module name="cloud-eurake-common" options="-parameters" />
+      <module name="cloud-eurake-dao" options="-parameters" />
+      <module name="cloud-eurake-manager" options="-parameters" />
+      <module name="cloud-eurake-service" options="-parameters" />
+      <module name="cloud-eurake-web" options="-parameters" />
+    </option>
   </component>
 </project>
