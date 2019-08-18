@@ -11,18 +11,9 @@
       <change beforePath="$PROJECT_DIR$/../cloud-eurake/cloud-eurake-web/cloud-eurake-web.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../cloud-eurake/cloud-eurake.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-finance-client/cloud-finance-client.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-finance-common/cloud-finance-common.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-finance-dao/cloud-finance-dao.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-finance-manager/cloud-finance-manager.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-finance-service/cloud-finance-service.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-finance-web/cloud-finance-web.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-finance-web/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-finance-web/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-finance-web/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-finance-web/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-finance.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-finance-web/src/main/java/com/cloud/finance/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-finance-web/src/main/java/com/cloud/finance/Application.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../cloud-human-social/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cloud-human-social/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cloud-human-social/cloud-human-social-manager/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cloud-human-social/cloud-human-social-manager/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cloud-human-social/cloud-human-social-manager/src/main/java/com/cloud/human/social/manager/impl/HumanSocialManagerImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cloud-human-social/cloud-human-social-manager/src/main/java/com/cloud/human/social/manager/impl/HumanSocialManagerImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud-human-social/cloud-human-social-web/src/main/java/com/cloud/human/social/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cloud-human-social/cloud-human-social-web/src/main/java/com/cloud/human/social/Application.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -49,7 +40,7 @@
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="988">
-              <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
+              <caret line="52" selection-start-line="52" selection-end-line="52" />
             </state>
           </provider>
         </entry>
@@ -57,27 +48,28 @@
       <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cloud-finance-web/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" column="13" lean-forward="true" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+            <state relative-caret-position="209">
+              <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FinanceController.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FinanceController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cloud-finance-web/src/main/java/com/cloud/finance/controller/FinanceController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="11" column="35" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="11" selection-end-column="35" />
+            <state relative-caret-position="77">
+              <caret line="7" selection-start-line="7" selection-end-line="7" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Application.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Application.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/cloud-finance-web/src/main/java/com/cloud/finance/Application.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="76">
-              <caret line="4" column="40" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="40" />
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
               <folding>
+                <element signature="imports" expanded="true" />
                 <element signature="e#330#331#0" expanded="true" />
                 <element signature="e#392#393#0" expanded="true" />
               </folding>
@@ -95,6 +87,7 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/cloud-finance-web/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/cloud-finance-web/src/main/java/com/cloud/finance/Application.java" />
       </list>
     </option>
   </component>
@@ -124,10 +117,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1448" />
-    <option name="y" value="228" />
-    <option name="width" value="1440" />
-    <option name="height" value="791" />
+    <option name="y" value="23" />
+    <option name="width" value="1309" />
+    <option name="height" value="754" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -279,7 +271,7 @@
       <updated>1565161564614</updated>
       <workItem from="1565161567422" duration="226000" />
       <workItem from="1565345018447" duration="838000" />
-      <workItem from="1566137043424" duration="2597000" />
+      <workItem from="1566137043424" duration="4308000" />
     </task>
     <task id="LOCAL-00001" summary="cloud-finance">
       <created>1565161722367</created>
@@ -288,15 +280,21 @@
       <option name="project" value="LOCAL" />
       <updated>1565161722367</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="rename application name">
+      <created>1566139870941</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1566139870941</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3661000" />
+    <option name="totallyTimeSpent" value="5372000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1448" y="228" width="1440" height="791" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1309" height="754" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
@@ -308,7 +306,7 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39913544" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.4216134" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Messages" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
@@ -319,7 +317,7 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32188842" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.35516968" />
       <window_info anchor="right" id="Bean Validation" order="3" />
       <window_info id="Web" order="2" side_tool="true" />
       <window_info anchor="right" id="Theme Preview" order="4" />
@@ -378,7 +376,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="cloud-finance" />
-    <option name="LAST_COMMIT_MESSAGE" value="cloud-finance" />
+    <MESSAGE value="rename application name" />
+    <option name="LAST_COMMIT_MESSAGE" value="rename application name" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
@@ -440,35 +439,36 @@
     <entry file="file://$PROJECT_DIR$/cloud-finance-manager/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/cloud-finance-web/src/main/java/com/cloud/finance/Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="40" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="40" />
-          <folding>
-            <element signature="e#330#331#0" expanded="true" />
-            <element signature="e#392#393#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="988">
-          <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cloud-finance-web/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="13" lean-forward="true" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        <state relative-caret-position="209">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cloud-finance-web/src/main/java/com/cloud/finance/controller/FinanceController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="11" column="35" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="11" selection-end-column="35" />
+        <state relative-caret-position="77">
+          <caret line="7" selection-start-line="7" selection-end-line="7" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-finance-web/src/main/java/com/cloud/finance/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
+            <element signature="e#392#393#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
