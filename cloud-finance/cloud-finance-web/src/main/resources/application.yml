@@ -1,5 +1,5 @@
 server:
-  port: 21020
+  port: 21030
 
 eureka:
   client:
@@ -9,4 +9,4 @@ eureka:
 
 spring:
   application:
-    name: cloud-financa
+    name: cloud-finance
