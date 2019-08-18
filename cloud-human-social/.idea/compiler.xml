@@ -6,12 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="cloud-human-social-web" />
         <module name="cloud-human-social-client" />
-        <module name="cloud-human-social-dao" />
-        <module name="cloud-human-social-service" />
         <module name="cloud-human-social-common" />
+        <module name="cloud-human-social-dao" />
         <module name="cloud-human-social-manager" />
+        <module name="cloud-human-social-service" />
+        <module name="cloud-human-social-web" />
       </profile>
     </annotationProcessing>
   </component>
