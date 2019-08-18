@@ -12,6 +12,6 @@ public class HumanSocialManagerImpl implements HumanSocialManager {
     @Override
     public String getFinanceInfo(){
 //        return financeControllerClient.getFinanceInfo();
-        return null;
+        return "test manager";
     }
 }

@@ -20,26 +20,11 @@
       <change beforePath="$PROJECT_DIR$/../cloud-finance/cloud-finance-web/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../cloud-finance/cloud-finance-web/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../cloud-finance/cloud-finance-web/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../cloud-finance/cloud-finance-web/target/classes/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../cloud-finance/cloud-finance.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-human-social-client/cloud-human-social-client.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-human-social-client/src/main/java/com/cloud/human/social/client/FinanceControllerClient.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-human-social-common/cloud-human-social-common.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-human-social-dao/cloud-human-social-dao.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-human-social-manager/cloud-human-social-manager.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-human-social-manager/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-human-social-manager/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-human-social-manager/src/main/java/com/cloud/human/social/manager/impl/HumanSocialManagerImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-human-social-manager/src/main/java/com/cloud/human/social/manager/impl/HumanSocialManagerImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-human-social-service/cloud-human-social-service.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-human-social-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-human-social-service/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-human-social-service/src/main/java/com/cloud/human/social/service/impl/HumanSocialServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-human-social-service/src/main/java/com/cloud/human/social/service/impl/HumanSocialServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-human-social-web/cloud-human-social-web.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-human-social-web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-human-social-web/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-human-social-web/src/main/java/com/cloud/human/social/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-human-social-web/src/main/java/com/cloud/human/social/Application.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-human-social-web/src/main/java/com/cloud/human/social/controller/HumanSocialController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-human-social-web/src/main/java/com/cloud/human/social/controller/HumanSocialController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-human-social-web/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-human-social-web/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-human-social-web/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-human-social.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -62,34 +47,62 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Application.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cloud-human-social-web/src/main/java/com/cloud/human/social/Application.java">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#422#423#0" expanded="true" />
-                <element signature="e#484#485#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="application.yml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/cloud-human-social-web/src/main/resources/application.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+            <state relative-caret-position="269">
+              <caret line="55" column="21" selection-start-line="55" selection-start-column="21" selection-end-line="55" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+        <entry file="file://$PROJECT_DIR$/cloud-human-social-web/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="87">
-              <caret line="37" column="21" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
+            <state relative-caret-position="171">
+              <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cloud-human-social-web/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="1" selection-start-column="1" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HumanSocialController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cloud-human-social-web/src/main/java/com/cloud/human/social/controller/HumanSocialController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HumanSocialService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cloud-human-social-service/src/main/java/com/cloud/human/social/service/HumanSocialService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HumanSocialServiceImpl.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cloud-human-social-service/src/main/java/com/cloud/human/social/service/impl/HumanSocialServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -114,14 +127,14 @@
         <option value="$PROJECT_DIR$/cloud-human-social-client/pom.xml" />
         <option value="$PROJECT_DIR$/cloud-human-social-manager/pom.xml" />
         <option value="$PROJECT_DIR$/cloud-human-social-service/pom.xml" />
-        <option value="$PROJECT_DIR$/cloud-human-social-web/pom.xml" />
         <option value="$PROJECT_DIR$/cloud-human-social-manager/src/main/java/com/cloud/human/social/manager/impl/HumanSocialManagerImpl.java" />
-        <option value="$PROJECT_DIR$/cloud-human-social-service/src/main/java/com/cloud/human/social/service/impl/HumanSocialServiceImpl.java" />
-        <option value="$PROJECT_DIR$/cloud-human-social-web/src/main/java/com/cloud/human/social/controller/HumanSocialController.java" />
         <option value="$PROJECT_DIR$/cloud-human-social-client/src/main/java/com/cloud/human/social/client/FinanceControllerClient.java" />
+        <option value="$PROJECT_DIR$/cloud-human-social-web/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/cloud-human-social-web/src/main/java/com/cloud/human/social/Application.java" />
-        <option value="$PROJECT_DIR$/cloud-human-social-web/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/cloud-human-social-web/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-human-social-web/src/main/java/com/cloud/human/social/controller/HumanSocialController.java" />
+        <option value="$PROJECT_DIR$/cloud-human-social-service/src/main/java/com/cloud/human/social/service/impl/HumanSocialServiceImpl.java" />
       </list>
     </option>
   </component>
@@ -151,9 +164,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1991" />
+    <option name="x" value="1735" />
     <option name="y" value="-34" />
-    <option name="width" value="1369" />
+    <option name="width" value="1625" />
     <option name="height" value="757" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -351,6 +364,10 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -422,7 +439,7 @@
       <workItem from="1565161792503" duration="288000" />
       <workItem from="1565345103971" duration="913000" />
       <workItem from="1566137064816" duration="614000" />
-      <workItem from="1566137927187" duration="1097000" />
+      <workItem from="1566137927187" duration="1350000" />
     </task>
     <task id="LOCAL-00001" summary="cloud-human-social">
       <created>1565161897445</created>
@@ -431,14 +448,22 @@
       <option name="project" value="LOCAL" />
       <updated>1565161897445</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="delete feign">
+      <created>1566139081473</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1566139081473</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2912000" />
+    <option name="totallyTimeSpent" value="3165000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1991" y="-34" width="1369" height="757" extended-state="0" />
+    <frame x="1735" y="-34" width="1625" height="757" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
@@ -461,7 +486,7 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Terminal" order="13" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.36623964" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.307012" />
       <window_info anchor="right" id="Bean Validation" order="4" weight="0.32931423" />
       <window_info id="Web" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3287879" />
@@ -475,6 +500,42 @@
       <window_info anchor="right" id="Maven" order="7" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="right" id="Maven" order="7" />
+      <window_info id="Designer" order="4" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="right" id="Capture Analysis" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.3287879" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3287879" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.36623964" />
+      <window_info anchor="right" id="Database" order="9" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Web" order="3" side_tool="true" />
+      <window_info anchor="right" id="Palette&#9;" order="10" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.47575757" />
+      <window_info anchor="right" id="Bean Validation" order="4" weight="0.32931423" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -484,7 +545,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="cloud-human-social" />
-    <option name="LAST_COMMIT_MESSAGE" value="cloud-human-social" />
+    <MESSAGE value="delete feign" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete feign" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/cloud-human-social-web/src/main/java/com/cloud/human/social/Application.java">
@@ -527,13 +589,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cloud-human-social-service/src/main/java/com/cloud/human/social/service/HumanSocialService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cloud-human-social-service/cloud-human-social-service.iml" />
     <entry file="file://$PROJECT_DIR$/cloud-human-social-client/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
@@ -570,44 +625,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cloud-human-social-web/src/main/java/com/cloud/human/social/controller/HumanSocialController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cloud-human-social-web/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cloud-human-social-client/src/main/java/com/cloud/human/social/client/FinanceControllerClient.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cloud-human-social-service/src/main/java/com/cloud/human/social/service/impl/HumanSocialServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="37" column="21" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -621,10 +642,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar:///Applications/apache-maven-3.5.4/repo/com/netflix/eureka/eureka-client/1.9.2/eureka-client-1.9.2.jar!/com/netflix/discovery/InstanceInfoReplicator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="109" selection-start-line="109" selection-end-line="109" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/cloud-human-social-web/src/main/java/com/cloud/human/social/Application.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        <state relative-caret-position="171">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#422#423#0" expanded="true" />
@@ -633,17 +661,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Applications/apache-maven-3.5.4/repo/com/netflix/eureka/eureka-client/1.9.2/eureka-client-1.9.2.jar!/com/netflix/discovery/InstanceInfoReplicator.class">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="109" selection-start-line="109" selection-end-line="109" />
+        <state relative-caret-position="269">
+          <caret line="55" column="21" selection-start-line="55" selection-start-column="21" selection-end-line="55" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cloud-human-social-web/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-human-social-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-human-social-service/src/main/java/com/cloud/human/social/service/HumanSocialService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-human-social-web/src/main/java/com/cloud/human/social/controller/HumanSocialController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-human-social-service/src/main/java/com/cloud/human/social/service/impl/HumanSocialServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
