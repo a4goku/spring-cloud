@@ -9,5 +9,5 @@ out
 gen
 target/
 # .gitignore
-
+vcs.xml
 logs
