@@ -1,12 +1,22 @@
 server:
   port: 21030
-
-eureka:
-  client:
-    serviceUrl:
-      defaultZone: http://localhost:21000/eureka/
-
-
+#eureka:
+#  client:
+#    serviceUrl:
+#      defaultZone: http://localhost:21000/eureka/
 spring:
   application:
     name: cloud-finance
+  cloud:
+    consul:
+      host: localhost
+      port: 8500
+      discovery:
+        enabled: true
+        register: true
+        serviceName: cloud-finance
+        healthCheckPath: /actuator/health
+        healthCheckInterval: 15s
+        tags: urlprefix-/${spring.application.name}
+        instance-id: cloud-finance:localhost:21030 # 应用名称+服务器IP+端口
+
