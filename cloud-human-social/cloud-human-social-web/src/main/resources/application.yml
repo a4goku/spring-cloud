@@ -1,11 +1,24 @@
 server:
   port: 21020
 
-eureka:
-  client:
-    serviceUrl:
-      defaultZone: http://localhost:21000/eureka/
+#eureka:
+#  client:
+#    serviceUrl:
+#      defaultZone: http://localhost:21000/eureka/
 
 spring:
   application:
     name: cloud-human-social
+  cloud:
+    consul:
+      host: localhost
+      port: 8500
+      discovery:
+        enabled: true
+        register: true
+        serviceName: cloud-human-social
+        healthCheckPath: /actuator/health
+        healthCheckInterval: 15s
+        tags: urlprefix-/${spring.application.name}
+        instance-id: cloud-human-social:localhost:21020 # 应用名称+服务器IP+端口
+
