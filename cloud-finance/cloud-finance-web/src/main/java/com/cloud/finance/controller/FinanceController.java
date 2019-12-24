@@ -11,6 +11,7 @@ public class FinanceController {
     @GetMapping("/financeInfo")
     public String getFinanceInfo(){
         String str = "This is a finance demo!";
+        System.out.println("test upload");
         System.out.println(str);
         return str;
     }
